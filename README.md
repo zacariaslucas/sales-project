@@ -45,7 +45,7 @@ ________________________________________
 ________________________________________
 
 ### BUSINESS RECOMMENDATIONS
-- Since profits decreased in 2024 while sales continued to grow, **cost, pricing, and discount strategies should be reviewed** during that period to identify the cause.
+- Since profits decreased in **2024** while sales continued to grow, **cost, pricing and discount strategies should be reviewed** during that period to identify the cause.
 - **Analyze** the evolution of the **Books** category to understand which factors drove its **turnaround** from losses to becoming the most profitable category, and assess whether similar strategies can be applied to other categories.
 - **Review pricing and cost structures within the Books category** to improve margins while maintaining strong sales performance.
 - **Monitor the recent profit recovery of Clothing in 2025** and evaluate the pricing/cost adjustments that may have contributed to its improvement. Similar actions could be tested in other underperforming categories.
