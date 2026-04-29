@@ -25,6 +25,8 @@ ________________________________________
 ________________________________________
 
 ### DASHBOARD
+[<img width="1619" height="1079" alt="Sales" src="https://github.com/user-attachments/assets/e61a6fe0-8efa-4797-8268-40471b2a6d8c" />](https://public.tableau.com/views/Sales_17774794349050/Sales?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ________________________________________
 
 ### KEY INSIGHTS
